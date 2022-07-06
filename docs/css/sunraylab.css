@@ -2,7 +2,6 @@
  * Globals
  */
 
-
 /* Custom default button */
 .btn-secondary,
 .btn-secondary:hover,
@@ -11,7 +10,6 @@
   text-shadow: none; /* Prevent inheritance from `body` */
 }
 
-
 /*
  * Base structure
  */
@@ -19,12 +17,11 @@ body {
   font-family: 'Titillium Web', sans-serif;
 }
 
-
-.cover-container {
-  max-width: 42em;
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Squada One', sans-serif;
 }
 
-button {
+.btn-lightdarkmode {
   background-color: transparent;
 }
 
@@ -42,19 +39,27 @@ button {
   margin-left: 1rem;
 }
 
-h1, h2, h3, h4, h5, h6 {
-  font-family: 'Squada One', sans-serif;
+/* 
+ * Home page 
+ */
+
+.cover-container {
+  max-width: 42em;
 }
 
 .cover-main h1 {
   font-size: calc(200% + 1vw + 1vh);
 }
 
+.bgimage {
+  z-index: -1;
+}
+
 /* colorscheme dark */
 
 .colorscheme-dark {
   color: #fff;
-  background-color: #0e182c;
+  background-color: #2d2f2a;
 }
 
 .colorscheme-dark .nav-masthead .nav-link {

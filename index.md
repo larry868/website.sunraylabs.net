@@ -1,5 +1,7 @@
+---
 title: Sunraylab
 url: https://sunraylab.net
+layout: layout_home.html
 ---
 # Sunraylab
 
