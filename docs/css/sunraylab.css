@@ -83,6 +83,15 @@ h1, h2, h3, h4, h5, h6 {
   visibility: hidden;
 } 
 
+.colorscheme-dark a {
+  color:#ffd916;
+  text-decoration: none; 
+}
+
+.colorscheme-dark a:hover, .colorscheme-light a:focus {
+  color:#fff;
+  text-decoration: underline; 
+}
 /* colorscheme light */
 
 .colorscheme-light {
@@ -111,12 +120,12 @@ h1, h2, h3, h4, h5, h6 {
   visibility: visible;
 } 
 
-a {
+.colorscheme-light a {
   color:rgb(122, 9, 117);
   text-decoration: none; 
 }
 
-a:hover, a:focus {
+.colorscheme-light a:hover, .colorscheme-light a:focus {
   color:#0e182c;
   text-decoration: underline; 
 }
