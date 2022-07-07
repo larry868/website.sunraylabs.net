@@ -110,3 +110,13 @@ h1, h2, h3, h4, h5, h6 {
 .colorscheme-light .flop {
   visibility: visible;
 } 
+
+a {
+  color:rgb(122, 9, 117);
+  text-decoration: none; 
+}
+
+a:hover, a:focus {
+  color:#0e182c;
+  text-decoration: underline; 
+}
