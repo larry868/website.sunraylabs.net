@@ -27,7 +27,7 @@
 </head>
 
 <body class="preload-transitions colorscheme-auto">
-    <div class="cover-container d-flex w-100 mx-auto flex-column text-center">
+    <div class="cover-container d-flex w-100 mx-auto flex-column text-center pb-5">
         
             <header class="p-3 mb-auto">
     <nav class="navbar">
@@ -38,37 +38,49 @@
                         href="/">Home</a>
                 <a class="nav-link active" aria-current="page" 
                         href="/lab.html">Lab</a>
+                <a class="nav-link " 
+                        href="/about.html">About</a>
                 <a class="nav-link" href="https://laurent.lourenco.pro">Contact</a>
             </div>
         </div>
     </nav>
 </header>
             <main>
-                <h1>Bitcoin &amp; Blockchain &amp; Web3 Lab</h1>
+                <div class="container">
+                    <h1>Bitcoin Blockchain Web3 Lab</h1>
 
-<p class="lead">Bitcoin & Blockchain & Web3 memos, ideas and thoughts, notes of experimentation, POCs, DApps & project review...</p>
+<p class="lead">Bitcoin Blockchain Web3 memos, ideas, thoughts, notes of experimentation, POCs, DApps, project review...</p>
 
 <div>
     <a href="lab/2022-05-18-1st.html">More to come</a>
 </div>
 
+                </div>
             </main>
     </div>
     <!--background image-->
     <div class="flip">
-        <img src="/img/sunraylab-background-yellow.svg" class="float-end w-100 img-fluid fixed-bottom mb-5 bgimage">
+        <img src="/img/sunraylab-background-yellow.svg" class="float-end w-100 img-fluid fixed-bottom bgimage">
     </div>
     <div class="flop">
-        <img src="/img/sunraylab-background-black.svg" class="float-end w-100 img-fluid fixed-bottom mb-5 bgimage" />
+        <img src="/img/sunraylab-background-black.svg" class="float-end w-100 img-fluid fixed-bottom bgimage" />
     </div>
-    <footer class="d-block fixed-bottom mt-auto p-3 text-center">
-    <span>(c) 2022 Sunraylab</span>
-    <!--light-dark mode button-->
-    <div class="fixed-bottom float-end img-fluid m-3 text-end">
-        <button type="button" id="dark-mode-toggle" class="colorscheme-toggle border-0 btn-lightdarkmode"
-            aria-expanded="false">
-            <i class="bi-circle-half" aria-hidden="true"></i>
-        </button>
+    <footer class="d-block fixed-bottom mt-auto p-3 bg-secondary">
+    <div class="row">
+        <!-- footer text -->
+        <div class="col text-start mx-3">
+            <a href="/">(c) 2022 Sunraylab</a>
+        </div>
+        <div class="col text-center mx-3">
+            <a href="https://laurent.lourenco.pro">Linker Pod</a>
+        </div>
+        <!--light-dark mode button-->
+        <div class="col img-fluid text-end mx-3">
+            <button type="button" id="dark-mode-toggle" class="colorscheme-toggle border-0 btn-lightdarkmode"
+                aria-expanded="false">
+                <i class="bi-circle-half" aria-hidden="true"></i>
+            </button>
+        </div>
     </div>
 </footer>
 <!--scripts-->

@@ -21,6 +21,11 @@ h1, h2, h3, h4, h5, h6 {
   font-family: 'Squada One', sans-serif;
 }
 
+h2 {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+
 .btn-lightdarkmode {
   background-color: transparent;
 }
@@ -53,6 +58,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .bgimage {
   z-index: -1;
+  margin-bottom: 2.5rem;
 }
 
 /* colorscheme dark */
@@ -60,6 +66,10 @@ h1, h2, h3, h4, h5, h6 {
 .colorscheme-dark {
   color: #fff;
   background-color: #2d2f2a;
+}
+
+.colorscheme-dark h4 {
+  color: #fff;
 }
 
 .colorscheme-dark .nav-masthead .nav-link {
@@ -92,12 +102,38 @@ h1, h2, h3, h4, h5, h6 {
   color:#fff;
   text-decoration: underline; 
 }
+
+.colorscheme-dark footer a {
+  color:#ddd;
+}
+.colorscheme-dark footer a:hover {
+  color:#ddd;
+  text-decoration: underline; 
+}
+
+
+.colorscheme-dark .btn-primary {
+  background-color:#fff;
+  border-width: 1;
+  border-color: #6c757d;
+  color: #ccad11;
+}
+
+.colorscheme-dark .btn-primary:hover{
+  background-color:#6c757d;
+}
+
 /* colorscheme light */
 
 .colorscheme-light {
   color: #0e182c;
   background-color: #ffd916;
 }
+
+.colorscheme-light h4 {
+  color: #fff;
+}
+
 
 .colorscheme-light .nav-masthead .nav-link {
   color: rgba(0, 0, 0, .5);
@@ -129,3 +165,28 @@ h1, h2, h3, h4, h5, h6 {
   color:#0e182c;
   text-decoration: underline; 
 }
+
+.colorscheme-light footer a {
+  color:#ddd;
+}
+.colorscheme-light footer a:hover {
+  color:#ddd;
+  text-decoration: underline; 
+}
+
+.colorscheme-light .btn-primary {
+  background-color:#fff;
+  border-width: 1;
+  border-color: #6c757d;
+}
+
+.colorscheme-light .btn-primary:hover{
+  background-color:#6c757d;
+}
+
+/* both color schema */
+
+.colorscheme-light main, .colorscheme-light main a:hover, .colorscheme-dark main, .colorscheme-dark main a:hover {
+  text-decoration: none; 
+}
+

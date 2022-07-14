@@ -4,19 +4,21 @@
 {{_head.html}}
 
 <body class="preload-transitions colorscheme-auto">
-    <div class="cover-container d-flex w-100 mx-auto flex-column text-center">
-        <% $navactive :=`lab` %>
+    <div class="cover-container d-flex w-100 mx-auto flex-column text-center pb-5">
+        <% $navactive :=`{{navactive}}` %>
             {{_header.html}}
             <main>
-                {{content}}
+                <div class="container">
+                    {{content}}
+                </div>
             </main>
     </div>
     <!--background image-->
     <div class="flip">
-        <img src="/img/sunraylab-background-yellow.svg" class="float-end w-100 img-fluid fixed-bottom mb-5 bgimage">
+        <img src="/img/sunraylab-background-yellow.svg" class="float-end w-100 img-fluid fixed-bottom bgimage">
     </div>
     <div class="flop">
-        <img src="/img/sunraylab-background-black.svg" class="float-end w-100 img-fluid fixed-bottom mb-5 bgimage" />
+        <img src="/img/sunraylab-background-black.svg" class="float-end w-100 img-fluid fixed-bottom bgimage" />
     </div>
     {{_footer.html}}
 </body>
