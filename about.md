@@ -36,47 +36,47 @@ In the blockchain space since 2012:
 
 <div class="row">
 <div class="card-transparent text-center bg-none" style="width: 33%;">
-  <img src="..." class="card-img-top" alt="bcnetwork">
+  <svg class="btcicon" fill="currentcolor" focusable="false" role="img"><use width="100%" height="60px" href="/img/bitcoin00.svg#bitcoin20"></use></svg>
   <div class="card-body">
     <h4 class="card-title">Networks</h5>
-    <p class="card-text">What blockchain technology can suits your need?</p>
+    <p class="card-text">select blockchain technologies</p>
   </div>
 </div>
 <div class="card-transparent text-center bg-none" style="width: 33%;">
-  <img src="..." class="card-img-top" alt="bctoken">
+  <svg class="btcicon" fill="currentcolor" focusable="false" role="img"><use width="100%" height="60px" href="/img/bitcoin00.svg#bitcoin15"></use></svg>
   <div class="card-body">
     <h4 class="card-title">Digital Assets</h5>
-    <p class="card-text">Does your token's design make it a high-demand asset?</p>
+    <p class="card-text">design high-demand assets</p>
   </div>
 </div>
 <div class="card-transparent text-center bg-none" style="width: 33%;">
-  <img src="..." class="card-img-top" alt="bcdapp">
+  <svg class="btcicon" fill="currentcolor" focusable="false" role="img"><use width="100%" height="60px" href="/img/bitcoin00.svg#bitcoin38"></use></svg>
   <div class="card-body">
     <h4 class="card-title">DApp</h5>
-    <p class="card-text">How demanding is your web3 app's UX?</p>
+    <p class="card-text">web3 application design with remarkable UX</p>
   </div>
 </div>
 </div>
-<div class="row">
+<div class="row my-5">
 <div class="card-transparent text-center bg-none" style="width: 33%;">
-  <img src="..." class="card-img-top" alt="bcnetwork">
+  <svg class="btcicon" fill="currentcolor" focusable="false" role="img"><use width="100%" height="60px" href="/img/bitcoin00.svg#bitcoin40"></use></svg>
   <div class="card-body">
-    <h4 class="card-title">Self-Sovereign Identity</h5>
-    <p class="card-text">What kind of DID solution can fit with your project?</p>
+    <h4 class="card-title">Self-Sovereign ID</h5>
+    <p class="card-text">decentralized ID fitting to your project</p>
   </div>
 </div>
 <div class="card-transparent text-center bg-none" style="width: 33%;">
-  <img src="..." class="card-img-top" alt="bctoken">
+  <svg class="btcicon" fill="currentcolor" focusable="false" role="img"><use width="100%" height="60px" href="/img/bitcoin00.svg#bitcoin24"></use></svg>
   <div class="card-body">
     <h4 class="card-title">Tokenomics</h5>
-    <p class="card-text">Do you have the right staking, vesting, liquidity strategies?</p>
+    <p class="card-text">find best staking, vesting, liquidity... strategies</p>
   </div>
 </div>
 <div class="card-transparent text-center bg-none" style="width: 33%;">
-  <img src="..." class="card-img-top" alt="bcdapp">
+  <svg class="btcicon" fill="currentcolor" focusable="false" role="img"><use width="100%" height="60px" href="/img/bitcoin00.svg#bitcoin21"></use></svg>
   <div class="card-body">
     <h4 class="card-title">ICO / IDO / ILO</h5>
-    <p class="card-text">Ready to plan your token launch and your funding?</p>
+    <p class="card-text">plan your token launch and your funding</p>
   </div>
 </div>
 </div>
