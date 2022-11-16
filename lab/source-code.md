@@ -22,6 +22,11 @@ Source code is published under the [MIT LICENCE](https://opensource.org/licenses
 
 **[loadfavicon](https://github.com/sunraylab/loadfavicon)** get and download all favicons of given websites, written in go. {{favicon https://go.dev}}
 
+<span class="badge text-bg-light border border-secondary">Private</span> **peanuts** account aggregator {{favicon https://go.dev}}
+
+<span class="badge text-bg-light border border-secondary">Private</span> **r3d3** bot providing crypto trading signals {{favicon https://go.dev}} {{favicon https://www.postgresql.org/}}
+
+
 ## Go packages
 
 All go packages can be found in the official go repository [pkg.go.dev](https://pkg.go.dev/search?q=sunraylab). 

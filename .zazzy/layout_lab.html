@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+
+{{_head.html}}
+
+<body class="preload-transitions colorscheme-auto">
+    <div class="container-flex w-100 mx-auto flex-column text-center pb-5">
+        <% $navactive :=`{{navactive}}` %>
+            {{_header.html}}
+            <main class="text-center">
+                <div class="container">
+                    <h1>{{title}}</h1>
+                    {{content}}
+                </div>
+            </main>
+    </div>
+    {{_footer.html}}
+</body>
+
+</html>

@@ -148,6 +148,10 @@ h2 {
   background-color: #6c757d;
 }
 
+.colorscheme-dark .card {
+  background-color: #ccad11;
+}
+
 /* colorscheme light */
 
 .colorscheme-light {
