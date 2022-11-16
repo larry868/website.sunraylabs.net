@@ -82,7 +82,7 @@ h2 {
 /* colorscheme dark */
 
 .colorscheme-dark {
-  color: #fff;
+  color: #ddd;
   background-color: #2d2f2a;
 }
 
@@ -99,8 +99,8 @@ h2 {
 }
 
 .colorscheme-dark .nav-masthead .active {
-  color: #fff;
-  border-bottom-color: #fff;
+  color: #eee;
+  border-bottom-color: #c1cccc;
 }
 
 .colorscheme-dark .nav-masthead .nav-link:hover,
@@ -123,7 +123,7 @@ h2 {
 
 .colorscheme-dark a:hover,
 .colorscheme-light a:focus {
-  color: #fff;
+  color: #eee;
   text-decoration: underline;
 }
 
@@ -138,7 +138,7 @@ h2 {
 
 
 .colorscheme-dark .btn-primary {
-  background-color: #fff;
+  background-color: #eee;
   border-width: 1;
   border-color: #6c757d;
   color: #ccad11;
@@ -156,11 +156,11 @@ h2 {
 }
 
 .colorscheme-light h4 {
-  color: #fff;
+  color: #eee;
 }
 
 .colorscheme-light .btcicon {
-  color: #fff;
+  color: #eee;
 }
 
 .colorscheme-light .nav-masthead .nav-link {
@@ -206,7 +206,7 @@ h2 {
 }
 
 .colorscheme-light .btn-primary {
-  background-color: #fff;
+  background-color: #eee;
   border-width: 1;
   border-color: #6c757d;
 }
