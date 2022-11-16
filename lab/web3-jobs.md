@@ -31,4 +31,4 @@ navactive: lab
 
 [<img class="favicon" src="/img/favicon-angellist.svg"> angel.co/jobs](https://angel.co/jobs)
 
-[{{favicon https://www.arweave.jobs}} arweave.jobs](https://www.arweave.jobs/jobs)
+[arweave.jobs](https://www.arweave.jobs/jobs)

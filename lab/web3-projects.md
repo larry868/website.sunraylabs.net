@@ -16,7 +16,7 @@ navactive: lab
 
 [{{favicon https://ceramic.network/}} Ceramic Network](https://ceramic.network/) *no token, serie A* Self.ID, ComposeDB, Passport (vote) by 3Box Labs
 
-[{{favicon https://www.overthereality.ai}} Over](https://www.overthereality.ai) **$OVR** The Future AR Metaverse, NFT Landowner.
+[Over](https://www.overthereality.ai) **$OVR** The Future AR Metaverse, NFT Landowner.
 
 [{{favicon https://hex.com}} HEX](https://hex.com) **$HEX** Certificates of Deposit (CDs, also known as Time Deposits or Bonds)
 

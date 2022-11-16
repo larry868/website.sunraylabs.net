@@ -12,3 +12,5 @@ navactive: lab
 
 [{{favicon https://internetfreedom.in}} internet freedom foundation](https://internetfreedom.in) Net Neutrality, Censorship and Free Expression, Online Privacy and Encryption
 
+[{{favicon https://simplelogin.io}}Simple Login](https://simplelogin.io) anonymous email aliases for login everywhere
+

@@ -16,7 +16,7 @@ navactive: lab
 
 ### DeX crypto/fiat
 
-[{{favicon https://bisq.network}} bisq.network](https://bisq.network) &bullet; 
+[bisq.network](https://bisq.network) &bullet; 
 [<img class="favicon" src="/img/favicon-changenow-32x32.png"> changenow.io](https://changenow.io)
 
 ### DeX crypto/crypto
@@ -32,5 +32,5 @@ navactive: lab
 
 [{{favicon https://www.dextools.io}} Dextools.io](https://www.dextools.io/app/en)
 
-[{{favicon https://portfolio.nansen.ai}} Nansen](https://portfolio.nansen.ai/dashboard) Track All Your DeFi Holdings in a Single Dashboard
+[Nansen](https://portfolio.nansen.ai/dashboard) Track All Your DeFi Holdings in a Single Dashboard
 
