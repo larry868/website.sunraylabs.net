@@ -10,10 +10,12 @@ navactive: lab
 
 [{{favicon https://defillama.com}} DeFi TVL](https://defillama.com) Total Value Locked in the DeFi protocols.
 
-[{{favicon https://www.blockchaincenter.net}} blockchaincenter.net](https://www.blockchaincenter.net/tools)
-
 [{{favicon https://alternative.me}} Crypto Fear & Greed Index](https://alternative.me/crypto)
 
 [{{favicon https://app.intotheblock.com}} price prediction intotheblock](https://app.intotheblock.com/)
+
+---
+
+[{{favicon https://www.blockchaincenter.net}} blockchaincenter.net](https://www.blockchaincenter.net/tools)
 
 [{{favicon https://www.theblock.co}} the block](https://www.theblock.co/data/crypto-markets/spot)

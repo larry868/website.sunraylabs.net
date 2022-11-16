@@ -30,3 +30,5 @@ navactive: lab
 [{{favicon https://pompcryptojobs.com}} pompcryptojobs.com](https://pompcryptojobs.com)
 
 [<img class="favicon" src="/img/favicon-angellist.svg"> angel.co/jobs](https://angel.co/jobs)
+
+[{{favicon https://www.arweave.jobs}} arweave.jobs](https://www.arweave.jobs/jobs)

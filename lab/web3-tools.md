@@ -8,6 +8,8 @@ navactive: lab
 
 [{{favicon https://www.pinksale.finance}} pinksale.finance](https://www.pinksale.finance) decentralized launchpad, create your own token and token sales in seconds.
 
+[{{favicon https://www.unicrypt.network}} ](https://www.unicrypt.network/) Multi chain Decentralized Protocols & Services: liquidity lockers, token vesting, token minting, ILO platform (launchpad), farm as a service, staking as a service.
+
 [{{favicon https://tokenlists.org}} ERC20 token lists](https://tokenlists.org)
 
 [{{favicon https://lab-0x.io}} lab0x](https://lab-0x.io) small web3 agency
@@ -29,4 +31,6 @@ navactive: lab
 [{{favicon https://defillama.com}} DefiLama](https://defillama.com) TVL aggregator for 1955 DeFi protocols from over 145 different blockchains.
 
 [{{favicon https://www.dextools.io}} Dextools.io](https://www.dextools.io/app/en)
+
+[{{favicon https://portfolio.nansen.ai}} Nansen](https://portfolio.nansen.ai/dashboard) Track All Your DeFi Holdings in a Single Dashboard
 
