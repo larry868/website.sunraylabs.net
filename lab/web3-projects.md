@@ -20,5 +20,7 @@ navactive: lab
 
 [{{favicon https://hex.com}} HEX](https://hex.com) **$HEX** Certificates of Deposit (CDs, also known as Time Deposits or Bonds)
 
-[{{favicon https://unstoppabledomains.com/}} unstoppable Domains](https://unstoppabledomains.com/) Own your identity in the digital world.
+[{{favicon https://unstoppabledomains.com/}} Unstoppable Domains](https://unstoppabledomains.com/) Own your identity in the digital world.
 Get started with a Web3 domain.
+
+[{{favicon https://www.pinata.cloud}} Pinata](https://www.pinata.cloud) IPFS storage
