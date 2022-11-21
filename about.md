@@ -17,7 +17,7 @@ navactive: about
 
 Sunraylab supports entrepreneurs in their Blockchain and Web3 strategy.
 
-## Founded by Laurent Lourenço
+## About Laurent Lourenço
 
 <img src="/img/llcartoon1.png" class="img-thumbnail float-end ms-3 my-2" alt="photo_laurent_lourenco" style="max-width:150px">
 
@@ -31,6 +31,14 @@ In the blockchain space since 2012:
 - planned 2 token launch
 - participated in many POCs and R&D projects
 - MIT Certified in 04-2019: Blockchain Technologies - Business Innovation and Application.
+
+Other example of significant achievements:
+
+* I've designed the overall system architecture of a food industry and managemed >30 IS/IT transfomation projects in Agile mode.
+
+* I've started a profitable supply chain business unit from scratch in 6 months, with key differentiator algorithms.
+
+* I've designed & build a software mock-up for a 15M€ fully specific software development tender (oil industry, dot net). We won the bid.
 
 ## Areas of Web3 expertise
 

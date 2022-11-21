@@ -2,4 +2,5 @@
     "liveServer.settings.CustomBrowser": "chrome:PrivateMode",
     "liveServer.settings.fullReload": true,
     "liveServer.settings.root": "docs/",
+    "liveServer.settings.port": 5501,
 }
