@@ -24,3 +24,9 @@ navactive: lab
 Get started with a Web3 domain.
 
 [{{favicon https://www.pinata.cloud}} Pinata](https://www.pinata.cloud) IPFS storage
+
+[{{favicon https://www.proofofhumanity.id}} Proof Of Humanity](https://www.proofofhumanity.id/) **UBI** 
+
+[{{favicon https://kleros.io}} kleros](https://kleros.io/) **$PNK**The Justice Protocol Kleros is a decentralized arbitration service for the disputes of the new economy.
+
+[{{favicon https://noox.world}} noox world](https://noox.world/) Proof of Achievements in Your Soul Collect achievement badges as Soulbound NFTs and build your on-chain reputation
