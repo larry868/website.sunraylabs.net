@@ -4,6 +4,9 @@ layout: layout_post.html
 navactive: lab
 ---
 
+<script async src="https://static.coinstats.app/widgets/coin-list-widget.js"></script>
+<coin-stats-list-widget locale="en" currency="USD" bg-color="#FFFFFF" status-up-color="#4F8A5B" status-down-color="#FE4747" text-color="#1C1B1B" font="Roboto, Arial, Helvetica" border-color="rgba(28,27,27,0.15)" width="486" coin-ids="bitcoin,ethereum,internet-computer,blockstack,radix,arweave,ovr"></coin-stats-list-widget>
+
 ### Layer 1
 
 <img class="favicon" src="/img/favicons/logo-icp.jpg"> [Internet Computer](https://internetcomputer.org) **$ICP** World Computer that provides a complete IT stack on which any online system or web3 service can be built in a fully decentralized form, 100% on-chain. ICP is the only blockchain with smart contracts that serve web experiences, create transactions on other chains, directly integrate with web2 APIs without oracles, and run 20,000x more efficiently. No centralized cloud. Simply powered by breakthrough Chain-key Cryptography.
