@@ -15,7 +15,7 @@ navactive: lab
 
 [{{favicon https://blockchain4talent.com}} blockchain4talent.com/](https://blockchain4talent.com)
 
-[{{favicon https://crypto.jobs}} crypto.jobs](https://crypto.jobs)
+[&rarr; crypto.jobs](https://crypto.jobs)
 
 [{{favicon https://wallcrypt.jobs}} wallcrypt.jobs](https://wallcrypt.jobs)
 
@@ -31,4 +31,4 @@ navactive: lab
 
 [<img class="favicon" src="/img/favicon-angellist.svg"> angel.co/jobs](https://angel.co/jobs)
 
-[arweave.jobs](https://www.arweave.jobs/jobs)
+[&rarr; arweave.jobs](https://www.arweave.jobs/jobs)
