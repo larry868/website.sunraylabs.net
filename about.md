@@ -1,11 +1,11 @@
 ---
-title: About Sunraylab
-url: https://sunraylab.net/about
+title: About Sunraylabs
+url: https://www.sunraylabs.net/about
 layout: layout_page.html
 navactive: about
 ---
 
-## Sunraylab supports entrepreneurs in their Blockchain and Web3 strategy
+## Sunraylabs supports entrepreneurs in their Blockchain and Web3 strategy
 
 **Bitcoin is born in 2008, Ethereum is born in 2013, and their underlying technologies such as blockchain and smart-contracts, are disruptive innovations** that make it possible to reinvent services and products that were unimaginable until then.
 
@@ -13,9 +13,9 @@ navactive: about
 
 **The Web3 market (sometimes called the crypto market) which is made up of solutions that integrate these technologies has been booming since 2016:** Layer1, Layer2 and sidechain, DeFI, NFT, Oracles, Identity, Web3 tooling, DApps, Wallets…. With hundreds of newcomers each week, the market is not slowing down and is reshuffling the cards of the historic web2.0 players.
 
-**Sunraylab aims to be a player in the Web3 revolution.**
+**Sunraylabs aims to be a player in the Web3 revolution.**
 
-Sunraylab supports entrepreneurs in their Blockchain and Web3 strategy.
+Sunraylabs supports entrepreneurs in their Blockchain and Web3 strategy.
 
 ## About Laurent Lourenço
 

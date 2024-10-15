@@ -1,10 +1,10 @@
 ---
-title: Sunraylab
-url: https://sunraylab.net
+title: Sunraylabs
+url: https://www.sunraylabs.net
 layout: layout_home.html
 navactive: home
 ---
-# Sunraylab
+# Sunraylabs
 
 <p class="lead">Web3 Studies and Experiments</p>
 

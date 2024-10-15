@@ -1,6 +1,6 @@
-Copyright (C) 2022 Sunraylab/Laurent_Lourenco - mail : lolorenzo77 @ sunraylab.net
+Copyright (C) 2022-2024 Sunraylabs/Laurent_Lourenco - mail : larry868 @ sunraylabs.net
 
-This file is part of the Sunraylab website project.
+This file is part of the Sunraylabs website project.
 
-The Sunraylab website project can not be copied and/or distributed without the express
-permission of Laurent Lourenco > mail lolorenzo77 @ sunraylab.net
+The Sunraylabs website project can not be copied and/or distributed without the express
+permission of Laurent Lourenco > mail larry868 @ sunraylabs.net
