@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Gestion De Projet on Le Hub IT de Larry</title>
-    <link>https://larry868.sunraylabs.net/fr/categories/gestion-de-projet/</link>
-    <description>Recent content in Gestion De Projet on Le Hub IT de Larry</description>
+    <title>Formation au management de projet on Le Hub IT de Larry</title>
+    <link>https://larry868.sunraylabs.net/fr/posts/gestion-de-projet/formation/</link>
+    <description>Recent content in Formation au management de projet on Le Hub IT de Larry</description>
     <generator>Hugo -- 0.138.0</generator>
     <language>fr-fr</language>
     <lastBuildDate>Wed, 11 May 2011 07:00:00 +0000</lastBuildDate>
-    <atom:link href="https://larry868.sunraylabs.net/fr/categories/gestion-de-projet/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://larry868.sunraylabs.net/fr/posts/gestion-de-projet/formation/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Un projet c&#39;est quoi ?</title>
       <link>https://larry868.sunraylabs.net/fr/posts/gestion-de-projet/formation/un-projet-c-est-quoi/</link>
@@ -63,20 +63,6 @@
       <link>https://larry868.sunraylabs.net/fr/posts/gestion-de-projet/formation/typologie-des-projets/</link>
       <pubDate>Wed, 11 May 2011 07:00:00 +0000</pubDate>
       <guid>https://larry868.sunraylabs.net/fr/posts/gestion-de-projet/formation/typologie-des-projets/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Bibliographie gestion de projet</title>
-      <link>https://larry868.sunraylabs.net/fr/posts/gestion-de-projet/bibliographie-getion-projet/</link>
-      <pubDate>Wed, 11 May 2011 07:00:00 +0000</pubDate>
-      <guid>https://larry868.sunraylabs.net/fr/posts/gestion-de-projet/bibliographie-getion-projet/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Outils gestion de projet</title>
-      <link>https://larry868.sunraylabs.net/fr/posts/gestion-de-projet/outils-gestion-projet/</link>
-      <pubDate>Wed, 11 May 2011 07:00:00 +0000</pubDate>
-      <guid>https://larry868.sunraylabs.net/fr/posts/gestion-de-projet/outils-gestion-projet/</guid>
       <description></description>
     </item>
   </channel>

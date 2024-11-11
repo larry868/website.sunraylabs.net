@@ -1,6 +1,6 @@
 ---
-title: "Mon premier article"
-date: 2024-11-10T07:22:02+01:00
+title: "Bibliographie gestion de projet"
+date: 2011-05-11T07:00:00
 author: "Larry868"
 categories: ["gestion de projet"]
 tags: []
@@ -9,6 +9,5 @@ description: ""
 draft: false
 ---
 
-Bienvenue
 
 

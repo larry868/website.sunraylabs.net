@@ -62,6 +62,7 @@ taxonomies:
   tag: "tags"
 
 pygmentsUseClasses: true
+enableEmoji: true
 
 outputs:
   home:
@@ -73,6 +74,8 @@ markup:
   goldmark:
     renderer:
       unsafe: true
+    extensions:
+      emoji: true
 
 languages:
   en:
