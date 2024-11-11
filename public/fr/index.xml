@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Le Hub IT de Larry</title>
+    <link>https://larry868.sunraylabs.net/fr/</link>
+    <description>Recent content on Le Hub IT de Larry</description>
+    <generator>Hugo -- 0.138.0</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Sun, 10 Nov 2024 07:22:02 +0100</lastBuildDate>
+    <atom:link href="https://larry868.sunraylabs.net/fr/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mon premier article</title>
+      <link>https://larry868.sunraylabs.net/fr/posts/gestion-de-projet/mon-premier-post/</link>
+      <pubDate>Sun, 10 Nov 2024 07:22:02 +0100</pubDate>
+      <guid>https://larry868.sunraylabs.net/fr/posts/gestion-de-projet/mon-premier-post/</guid>
+      <description>&lt;p&gt;Bienvenue&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My post</title>
+      <link>https://larry868.sunraylabs.net/fr/posts/developpement-logiciel/newpost/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      <guid>https://larry868.sunraylabs.net/fr/posts/developpement-logiciel/newpost/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>My post</title>
+      <link>https://larry868.sunraylabs.net/fr/posts/systemes-information/outils-vie-privee/</link>
+      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
+      <guid>https://larry868.sunraylabs.net/fr/posts/systemes-information/outils-vie-privee/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>A propos de Larry</title>
+      <link>https://larry868.sunraylabs.net/fr/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://larry868.sunraylabs.net/fr/about/</guid>
+      <description>&lt;p&gt;A propos&lt;/p&gt;
+&lt;p&gt;TODO: fulfill content&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
