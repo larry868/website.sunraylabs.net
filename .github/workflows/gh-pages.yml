@@ -20,9 +20,18 @@ jobs:
       - name: Build
         run: hugo --minify
 
+      - name: List public directory
+        run: ls -la ./public
+
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
+
+      - name: List deployment branch
+        run: |
+          git fetch origin gh-pages
+          git checkout gh-pages
+          ls -la
 
