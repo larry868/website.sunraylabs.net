@@ -1,0 +1,158 @@
+title: "Larry's IT Hub Site"
+baseURL: 'https://larry868.sunraylabs.net'
+languageCode: 'en-us'
+theme: ["PaperMod"]
+
+defaultContentLanguage: "en"
+languageCode: "en-us"
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+params:
+  profileMode:
+    enabled: true
+    imageUrl: "/images/larry868.webp"
+    imageTitle: "larry's avatar" 
+    imageWidth: 180 # custom size
+    imageHeight: 180 # custom size
+  socialIcons:
+    - name: "linkedpod"
+      url: "https://laurent.lourenco.pro/"
+      icon: "linkerpod"
+    - name: "GitHub"
+      url: "https://github.com/larry868"
+      icon: "github"
+    - name: "Medium"
+      url: "https://medium.com/@laurent.lourenco"
+      icon: "medium"
+  defaultTheme: "auto"
+  showReadingTime: true
+  showShareButtons: true
+  showPostNavLinks: false
+  showBreadCrumbs: true
+  showCodeCopyButtons: true
+  disableThemeToggle: false
+  disableTaxonomyTermList: false
+  ShowRssButtonInSectionTermList: true
+  UseHugoToc: true
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showSearch: true
+  assets:
+    favicon: "favicon.ico"
+  author:
+    name: "Larry868"
+    homepage: "https://larry868.sunraylabs.net/"
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 4
+    # limit: 10 # refer: https://www.fusejs.io/api/methods.html#search
+
+taxonomies:
+  category: "categories"
+  tag: "tags"
+
+pygmentsUseClasses: true
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # necessary for search
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+languages:
+  en:
+    languageName: "English"
+    weight: 1
+    contentDir: "content/en"
+    languageCode: "en-us"
+    title: "Larry's IT Hub"
+    params:
+      profileMode:
+        subtitle: "sharing experiences, providing resources, exploring new technologies"
+        buttons:
+          - name: Project Management
+            url: "/categories/project-management"
+          - name: Software Development
+            url: "/categories/software-develomment"
+          - name: Information Systems
+            url: "/categories/information-systems"
+          - name: IT
+            url: "/categories/information-technology"
+      editPost:
+        URL: "https://github.com/larry868/website.sunraylabs.net/content"
+        Text: "Suggest Changes" # edit text
+        appendFilePath: true # to append file path to Edit link
+    menu:
+      main:
+        - identifier: "search"
+          name: Search
+          url: "search/"
+          weight: 1
+        - identifier: "home"
+          name: "Home"
+          url: "/"
+          weight: 2
+        - identifier: "about"
+          name: "About"
+          url: "/about"
+          weight: 3
+        - identifier: "posts"
+          name: "Posts"
+          url: "/posts/"
+          weight: 4
+  fr:
+    languageName: "Français"
+    weight: 2
+    contentDir: "content/fr"
+    languageCode: "fr-fr"
+    title: "Le Hub IT de Larry"
+    params:
+      profileMode:
+        subtitle: "partage d'expériences et de ressources, exploration de nouvelles technologies"
+        buttons:
+          - name: Gestion de Projet
+            url: "/fr/categories/gestion-de-projet"
+          - name: Technologies de l'Information
+            url: "/fr/categories/technologies-informatiques"
+          - name: Systèmes d'information
+            url: "/fr/categories/systemes-information"
+          - name: Developpement Logiciel
+            url: "/fr/categories/develomment-logiciel"
+      editPost:
+        URL: "https://github.com/larry868/website.sunraylabs.net/content"
+        Text: "Suggerer des changements" # edit text
+        appendFilePath: true # to append file path to Edit link
+    menu:
+      main:
+        - identifier: "search"
+          name: Recherche
+          url: "search/"
+          weight: 1
+        - identifier: "home"
+          name: "Accueil"
+          url: "/fr/"
+          weight: 2
+        - identifier: "about"
+          name: "À Propos"
+          url: "/fr/about"
+          weight: 3
+        - identifier: "posts"
+          name: "Posts"
+          url: "/fr/posts/"
+          weight: 4
+

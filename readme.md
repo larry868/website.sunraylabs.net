@@ -1,31 +1,18 @@
-# sources of sunraylabs.net website
+# sources of larry868.sunraylabs.net website
 
-https://www.sunraylabs.net
-
-Static site build with [zazzy](https://github.com/larry868/zazzy)
+Static site https://larry868.sunraylabs.net built with [Hugo](https://gohugo.io/) with [papermod theme](https://github.com/adityatelange/hugo-PaperMod).
 
 Published on github pages, home in `/docs/`
 
-Build with the .vscose task `build`:
-    - clear /docs
-    - set env var ZS_PUBDIR=docs
-    - set env var ZS_HOSTURL=https://sunraylabs.net 
-    - zazzy build
+To add a post:
 
-use [zazzy](https://github.com/larry868/zazzy) simple static site generator. zazzy need to be instaled first.
-
-In dev mod, run task `watch` and liverserver.
-
-## website structure
-
-- `/.zazzy/` contains html templates
-- `/css/` contains `sunraylabs.css` source 
-- `/jd/` contains `switch.js` source and any other js sources that will be copies into `/docs/js`
-- `/img/` contains images that will be copied into `/docs/img`
-- `/lab/` contains all lab pages in markdonwn
-
-`about.md` and `index.md` are defined at root level.
+```bash
+# in english
+hugo new --kind post hugo posts/newpost.md
+# in french
+hugo new --kind post hugo ../fr/posts/newpost.md
+```
 
 ## License
 
-Copyright (C) 2022-2024 Sunraylabs/Laurent_Lourenco - [licence](LICENSE.md).
+Copyright (C) 2022-2024 Larry868 - [licence](LICENSE.md).
