@@ -1,4 +1,4 @@
-# sources of larry868.sunraylabs.net website
+# sources of larry868.sunraylabs.net website (v2)
 
 Static site https://larry868.sunraylabs.net built with [Hugo](https://gohugo.io/) with [papermod theme](https://github.com/adityatelange/hugo-PaperMod).
 
