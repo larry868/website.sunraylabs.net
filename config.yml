@@ -128,6 +128,8 @@ languages:
       profileMode:
         subtitle: "partage d'expériences et de ressources, exploration de nouvelles technologies"
         buttons:
+          - name: Formation gestion de projet
+            url: "/fr/formation-gestion-projet"
           - name: Gestion de Projet
             url: "/fr/categories/gestion-de-projet"
           - name: Technologies de l'Information

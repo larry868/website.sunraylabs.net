@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>📐 Organisation du projet on Le Hub IT de Larry</title>
+    <link>https://larry868.sunraylabs.net/fr/formation-gestion-projet/organisation-du-projet/</link>
+    <description>Recent content in 📐 Organisation du projet on Le Hub IT de Larry</description>
+    <generator>Hugo -- 0.138.0</generator>
+    <language>fr-fr</language>
+    <lastBuildDate>Wed, 11 May 2011 07:00:00 +0000</lastBuildDate>
+    <atom:link href="https://larry868.sunraylabs.net/fr/formation-gestion-projet/organisation-du-projet/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Plan de Management</title>
+      <link>https://larry868.sunraylabs.net/fr/formation-gestion-projet/organisation-du-projet/plan-de-management/</link>
+      <pubDate>Wed, 11 May 2011 07:00:00 +0000</pubDate>
+      <guid>https://larry868.sunraylabs.net/fr/formation-gestion-projet/organisation-du-projet/plan-de-management/</guid>
+      <description>Description du plan de management de projet.</description>
+    </item>
+    <item>
+      <title>Réunion de lancement</title>
+      <link>https://larry868.sunraylabs.net/fr/formation-gestion-projet/organisation-du-projet/reunion-de-lancement/</link>
+      <pubDate>Wed, 11 May 2011 07:00:00 +0000</pubDate>
+      <guid>https://larry868.sunraylabs.net/fr/formation-gestion-projet/organisation-du-projet/reunion-de-lancement/</guid>
+      <description>Description de la réunion de lancement de projet.</description>
+    </item>
+    <item>
+      <title>Matrice des rôles et responsabilités</title>
+      <link>https://larry868.sunraylabs.net/fr/formation-gestion-projet/organisation-du-projet/matrice-des-roles-et-responsabilites/</link>
+      <pubDate>Wed, 11 May 2011 07:00:00 +0000</pubDate>
+      <guid>https://larry868.sunraylabs.net/fr/formation-gestion-projet/organisation-du-projet/matrice-des-roles-et-responsabilites/</guid>
+      <description>Description de la matrice des rôles et responsabilités dans un projet.</description>
+    </item>
+  </channel>
+</rss>

@@ -11,7 +11,7 @@ showPostNavLinks: true
 weight: 11
 ---
 
-Un projet est une entreprise temporaire visant à réaliser un ouvrage unique en réponse à un besoin spécifique. Il se caractérise par un objectif précis, une durée limitée, un coût défini et des risques inhérents. Les projets peuvent être industriels, marketing, BTP, commerciaux, personnels, professionnels, de gestion, d’entreprise, publics ou privés. La réalisation d’un projet implique des actions concrètes (œuvre) pour produire un résultat tangible (ouvrage), tel qu’une maison, un logiciel ou une installation industrielle.
+**Un projet c'est quoi ? Un projet est une entreprise temporaire visant à réaliser un ouvrage unique en réponse à un besoin spécifique.** Il se caractérise par un objectif précis, une durée limitée, un coût défini et des risques inhérents. Les projets peuvent être industriels, marketing, BTP, commerciaux, personnels, professionnels, de gestion, d’entreprise, publics ou privés. La réalisation d’un projet implique des actions concrètes (œuvre) pour produire un résultat tangible (ouvrage), tel qu’une maison, un logiciel ou une installation industrielle.
 
 <!--more-->
 

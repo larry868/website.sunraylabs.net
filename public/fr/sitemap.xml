@@ -2,31 +2,115 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://larry868.sunraylabs.net/fr/posts/gestion-de-projet/formation/</loc>
+    <loc>https://larry868.sunraylabs.net/fr/formation-gestion-projet/principes-de-base/</loc>
     <lastmod>2011-05-11T07:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://larry868.sunraylabs.net/fr/posts/gestion-de-projet/formation/un-projet-c-est-quoi/</loc>
+    <loc>https://larry868.sunraylabs.net/fr/formation-gestion-projet/initialisation-du-projet/</loc>
     <lastmod>2011-05-11T07:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://larry868.sunraylabs.net/fr/posts/gestion-de-projet/formation/cycle-de-vie-des-ouvrages/</loc>
+    <loc>https://larry868.sunraylabs.net/fr/formation-gestion-projet/principes-de-base/un-projet-c-est-quoi/</loc>
     <lastmod>2011-05-11T07:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://larry868.sunraylabs.net/fr/posts/gestion-de-projet/formation/objectifs-d-un-projet/</loc>
+    <loc>https://larry868.sunraylabs.net/fr/formation-gestion-projet/organisation-du-projet/</loc>
     <lastmod>2011-05-11T07:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://larry868.sunraylabs.net/fr/posts/gestion-de-projet/formation/enjeux/</loc>
+    <loc>https://larry868.sunraylabs.net/fr/formation-gestion-projet/principes-de-base/cycle-de-vie-des-ouvrages/</loc>
     <lastmod>2011-05-11T07:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://larry868.sunraylabs.net/fr/posts/gestion-de-projet/formation/management-de-projet/</loc>
+    <loc>https://larry868.sunraylabs.net/fr/formation-gestion-projet/principes-de-base/objectifs-d-un-projet/</loc>
     <lastmod>2011-05-11T07:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://larry868.sunraylabs.net/fr/posts/gestion-de-projet/formation/methode-projet/</loc>
+    <loc>https://larry868.sunraylabs.net/fr/formation-gestion-projet/execution-du-projet/</loc>
     <lastmod>2011-05-11T07:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://larry868.sunraylabs.net/fr/posts/gestion-de-projet/formation/cycle-de-vie-des-projets/</loc>
+    <loc>https://larry868.sunraylabs.net/fr/formation-gestion-projet/principes-de-base/enjeux/</loc>
     <lastmod>2011-05-11T07:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://larry868.sunraylabs.net/fr/posts/gestion-de-projet/formation/typologie-des-projets/</loc>
+    <loc>https://larry868.sunraylabs.net/fr/formation-gestion-projet/achevement-du-projet/</loc>
+    <lastmod>2011-05-11T07:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://larry868.sunraylabs.net/fr/formation-gestion-projet/principes-de-base/management-de-projet/</loc>
+    <lastmod>2011-05-11T07:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://larry868.sunraylabs.net/fr/formation-gestion-projet/principes-de-base/methode-projet/</loc>
+    <lastmod>2011-05-11T07:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://larry868.sunraylabs.net/fr/formation-gestion-projet/principes-de-base/cycle-de-vie-des-projets/</loc>
+    <lastmod>2011-05-11T07:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://larry868.sunraylabs.net/fr/formation-gestion-projet/principes-de-base/typologie-des-projets/</loc>
+    <lastmod>2011-05-11T07:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://larry868.sunraylabs.net/fr/formation-gestion-projet/initialisation-du-projet/naissance-d-un-projet/</loc>
+    <lastmod>2011-05-11T07:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://larry868.sunraylabs.net/fr/formation-gestion-projet/initialisation-du-projet/lancement/</loc>
+    <lastmod>2011-05-11T07:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://larry868.sunraylabs.net/fr/formation-gestion-projet/initialisation-du-projet/le-point-de-depart/</loc>
+    <lastmod>2011-05-11T07:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://larry868.sunraylabs.net/fr/formation-gestion-projet/initialisation-du-projet/charte-projet/</loc>
+    <lastmod>2011-05-11T07:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://larry868.sunraylabs.net/fr/formation-gestion-projet/execution-du-projet/mise-en-service/</loc>
+    <lastmod>2011-05-11T07:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://larry868.sunraylabs.net/fr/formation-gestion-projet/initialisation-du-projet/calcul-de-rentabilite/</loc>
+    <lastmod>2011-05-11T07:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://larry868.sunraylabs.net/fr/formation-gestion-projet/achevement-du-projet/mise-hors-service/</loc>
+    <lastmod>2011-05-11T07:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://larry868.sunraylabs.net/fr/formation-gestion-projet/achevement-du-projet/extinction/</loc>
+    <lastmod>2011-05-11T07:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://larry868.sunraylabs.net/fr/formation-gestion-projet/initialisation-du-projet/sponsor/</loc>
+    <lastmod>2011-05-11T07:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://larry868.sunraylabs.net/fr/formation-gestion-projet/organisation-du-projet/plan-de-management/</loc>
+    <lastmod>2011-05-11T07:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://larry868.sunraylabs.net/fr/formation-gestion-projet/organisation-du-projet/reunion-de-lancement/</loc>
+    <lastmod>2011-05-11T07:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://larry868.sunraylabs.net/fr/formation-gestion-projet/organisation-du-projet/matrice-des-roles-et-responsabilites/</loc>
+    <lastmod>2011-05-11T07:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://larry868.sunraylabs.net/fr/formation-gestion-projet/execution-du-projet/compte-rendu-de-reunion/</loc>
+    <lastmod>2011-05-11T07:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://larry868.sunraylabs.net/fr/formation-gestion-projet/execution-du-projet/travail-collaboratif/</loc>
+    <lastmod>2011-05-11T07:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://larry868.sunraylabs.net/fr/formation-gestion-projet/execution-du-projet/suivi-d-avancement/</loc>
+    <lastmod>2011-05-11T07:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://larry868.sunraylabs.net/fr/formation-gestion-projet/execution-du-projet/gestion-du-perimetre-et-des-evolutions/</loc>
+    <lastmod>2011-05-11T07:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://larry868.sunraylabs.net/fr/formation-gestion-projet/execution-du-projet/plan-de-tests-d-integration/</loc>
+    <lastmod>2011-05-11T07:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://larry868.sunraylabs.net/fr/formation-gestion-projet/execution-du-projet/check-list-go-live/</loc>
+    <lastmod>2011-05-11T07:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://larry868.sunraylabs.net/fr/formation-gestion-projet/execution-du-projet/plan-de-bascule-et-go-live/</loc>
+    <lastmod>2011-05-11T07:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://larry868.sunraylabs.net/fr/formation-gestion-projet/execution-du-projet/plan-de-transition/</loc>
+    <lastmod>2011-05-11T07:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://larry868.sunraylabs.net/fr/formation-gestion-projet/execution-du-projet/formation/</loc>
+    <lastmod>2011-05-11T07:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://larry868.sunraylabs.net/fr/formation-gestion-projet/achevement-du-projet/clore-le-projet/</loc>
+    <lastmod>2011-05-11T07:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://larry868.sunraylabs.net/fr/formation-gestion-projet/achevement-du-projet/bilan-de-fin-de-projet/</loc>
+    <lastmod>2011-05-11T07:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://larry868.sunraylabs.net/fr/formation-gestion-projet/achevement-du-projet/transfert-des-responsabilites/</loc>
     <lastmod>2011-05-11T07:00:00+00:00</lastmod>
   </url><url>
     <loc>https://larry868.sunraylabs.net/fr/tags/first/</loc>
@@ -92,6 +176,12 @@
                 hreflang="fr-fr"
                 href="https://larry868.sunraylabs.net/fr/categories/"
                 />
+  </url><url>
+    <loc>https://larry868.sunraylabs.net/fr/tags/formation/</loc>
+    <lastmod>2011-05-11T07:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://larry868.sunraylabs.net/fr/formation-gestion-projet/</loc>
+    <lastmod>2011-05-11T07:00:00+00:00</lastmod>
   </url><url>
     <loc>https://larry868.sunraylabs.net/fr/categories/gestion-de-projet/</loc>
     <lastmod>2011-05-11T07:00:00+00:00</lastmod>
