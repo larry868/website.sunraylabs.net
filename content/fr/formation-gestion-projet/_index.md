@@ -16,7 +16,7 @@ Contenu de cette formation à la gestion de projet :
 ## :bulb: Concepts et principes de base
 
 - [Anatomie d'un projet](principes-de-base/anatomie-projet)
-- [Mettre le coeur à l'ouvrage](moa-vs-moe)
+- [Mettre le coeur à l'ouvrage](principes-de-base/moa-vs-moe)
 - [Cycle de vie des ouvrages](principes-de-base/cycle-de-vie-des-ouvrages)
 - [Objectifs d’un projet](principes-de-base/objectifs-d-un-projet)
 - [Enjeux](principes-de-base/enjeux)
