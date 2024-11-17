@@ -8,7 +8,7 @@
     <loc>https://larry868.sunraylabs.net/fr/formation-gestion-projet/initialisation-du-projet/</loc>
     <lastmod>2011-05-11T07:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://larry868.sunraylabs.net/fr/formation-gestion-projet/principes-de-base/un-projet-c-est-quoi/</loc>
+    <loc>https://larry868.sunraylabs.net/fr/formation-gestion-projet/principes-de-base/anatomie-projet/</loc>
     <lastmod>2011-05-11T07:00:00+00:00</lastmod>
   </url><url>
     <loc>https://larry868.sunraylabs.net/fr/formation-gestion-projet/organisation-du-projet/</loc>
@@ -39,6 +39,9 @@
     <lastmod>2011-05-11T07:00:00+00:00</lastmod>
   </url><url>
     <loc>https://larry868.sunraylabs.net/fr/formation-gestion-projet/principes-de-base/cycle-de-vie-des-projets/</loc>
+    <lastmod>2011-05-11T07:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://larry868.sunraylabs.net/fr/formation-gestion-projet/principes-de-base/facteurs-cl%C3%A9-reussite-projet/</loc>
     <lastmod>2011-05-11T07:00:00+00:00</lastmod>
   </url><url>
     <loc>https://larry868.sunraylabs.net/fr/formation-gestion-projet/principes-de-base/typologie-des-projets/</loc>
@@ -116,57 +119,6 @@
     <loc>https://larry868.sunraylabs.net/fr/formation-gestion-projet/achevement-du-projet/transfert-des-responsabilites/</loc>
     <lastmod>2011-05-11T07:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://larry868.sunraylabs.net/fr/tags/first/</loc>
-    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
-  </url><url>
-    <loc>https://larry868.sunraylabs.net/fr/</loc>
-    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://larry868.sunraylabs.net/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="https://larry868.sunraylabs.net/fr/"
-                />
-  </url><url>
-    <loc>https://larry868.sunraylabs.net/fr/posts/developpement-logiciel/newpost/</loc>
-    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
-  </url><url>
-    <loc>https://larry868.sunraylabs.net/fr/posts/systemes-information/outils-vie-privee/</loc>
-    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
-  </url><url>
-    <loc>https://larry868.sunraylabs.net/fr/posts/</loc>
-    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://larry868.sunraylabs.net/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="https://larry868.sunraylabs.net/fr/posts/"
-                />
-  </url><url>
-    <loc>https://larry868.sunraylabs.net/fr/tags/</loc>
-    <lastmod>2020-09-15T11:30:03+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://larry868.sunraylabs.net/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr-fr"
-                href="https://larry868.sunraylabs.net/fr/tags/"
-                />
-  </url><url>
-    <loc>https://larry868.sunraylabs.net/fr/posts/gestion-de-projet/bibliographie-getion-projet/</loc>
-    <lastmod>2011-05-11T07:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://larry868.sunraylabs.net/fr/categories/</loc>
     <lastmod>2011-05-11T07:00:00+00:00</lastmod>
     <xhtml:link
@@ -189,8 +141,44 @@
     <loc>https://larry868.sunraylabs.net/fr/categories/gestion-de-projet/</loc>
     <lastmod>2011-05-11T07:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://larry868.sunraylabs.net/fr/posts/gestion-de-projet/outils-gestion-projet/</loc>
+    <loc>https://larry868.sunraylabs.net/fr/</loc>
     <lastmod>2011-05-11T07:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://larry868.sunraylabs.net/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-fr"
+                href="https://larry868.sunraylabs.net/fr/"
+                />
+  </url><url>
+    <loc>https://larry868.sunraylabs.net/fr/posts/</loc>
+    <lastmod>2011-05-11T07:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://larry868.sunraylabs.net/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-fr"
+                href="https://larry868.sunraylabs.net/fr/posts/"
+                />
+  </url><url>
+    <loc>https://larry868.sunraylabs.net/fr/tags/</loc>
+    <lastmod>2011-05-11T07:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://larry868.sunraylabs.net/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr-fr"
+                href="https://larry868.sunraylabs.net/fr/tags/"
+                />
   </url><url>
     <loc>https://larry868.sunraylabs.net/fr/about/</loc>
     <xhtml:link

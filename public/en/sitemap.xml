@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://larry868.sunraylabs.net/categories/</loc>
-    <lastmod>2024-11-10T07:22:02+01:00</lastmod>
+    <lastmod>2022-12-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
@@ -15,8 +15,14 @@
                 href="https://larry868.sunraylabs.net/categories/"
                 />
   </url><url>
+    <loc>https://larry868.sunraylabs.net/posts/information-technology/crypto-stats/</loc>
+    <lastmod>2022-12-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://larry868.sunraylabs.net/categories/information-technology/</loc>
+    <lastmod>2022-12-10T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://larry868.sunraylabs.net/</loc>
-    <lastmod>2024-11-10T07:22:02+01:00</lastmod>
+    <lastmod>2022-12-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
@@ -28,11 +34,8 @@
                 href="https://larry868.sunraylabs.net/"
                 />
   </url><url>
-    <loc>https://larry868.sunraylabs.net/posts/project-management/my-first-post/</loc>
-    <lastmod>2024-11-10T07:22:02+01:00</lastmod>
-  </url><url>
     <loc>https://larry868.sunraylabs.net/posts/</loc>
-    <lastmod>2024-11-10T07:22:02+01:00</lastmod>
+    <lastmod>2022-12-10T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr-fr"
@@ -43,15 +46,6 @@
                 hreflang="en-us"
                 href="https://larry868.sunraylabs.net/posts/"
                 />
-  </url><url>
-    <loc>https://larry868.sunraylabs.net/categories/project-management/</loc>
-    <lastmod>2024-11-10T07:22:02+01:00</lastmod>
-  </url><url>
-    <loc>https://larry868.sunraylabs.net/posts/information-technology/crypto-stats/</loc>
-    <lastmod>2022-12-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://larry868.sunraylabs.net/categories/information-technology/</loc>
-    <lastmod>2022-12-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://larry868.sunraylabs.net/posts/information-technology/web3-projects-in2023/</loc>
     <lastmod>2022-12-01T00:00:00+00:00</lastmod>

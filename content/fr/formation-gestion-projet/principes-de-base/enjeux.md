@@ -9,6 +9,10 @@ description: ""
 draft: false
 weight: 15
 showPostNavLinks: true
+# cover:
+#   image: ./images/project-examples.png
+#   caption: "credit: eiffage"
+#   alt: "examples de projets"
 ---
 
 Ce document traite des enjeux de la gestion de projet, en mettant l'accent sur les changements rapides et les contextes complexes. Il souligne l'importance de la prise de risque dans les décisions d'investissement et décrit les facteurs clés de réussite, notamment la gestion du changement et le management de projet.
@@ -35,7 +39,7 @@ Décider d’investir c’est accepter un certain rapport « rendement / risque
 
 ## Décision d’investissement
 
-- L’investisseur à pour but de maximiser sont profit, en minimisant sont risque
+- L’investisseur à pour but de maximiser sont profit, en minimisant son risque
 - Entre plusieurs investissements de rentabilité égale, les investisseurs choisiront toujours celui présentant le moins de risques
 - On peut dissocier la rentabilité d’un investissement de son risque
 
@@ -43,10 +47,3 @@ Décider d’investir c’est accepter un certain rapport « rendement / risque
 
 **Risque** --> quelque soit sa nature, il se traduit toujours par un niveau de variabilité des résultats
 
-## Facteurs clés de réussite
-
-Gestion du changement
-
-+
-
-Management de projet

@@ -93,13 +93,13 @@ languages:
       profileMode:
         subtitle: "sharing experiences, providing resources, exploring new technologies"
         buttons:
-          - name: Project Management
-            url: "/categories/project-management"
-          - name: Software Development
-            url: "/categories/software-develomment"
+          # - name: Project Management
+          #   url: "/categories/project-management"
+          # - name: Software Development
+          #   url: "/categories/software-develomment"
           - name: Information Systems
             url: "/categories/information-systems"
-          - name: IT
+          - name: Information Technology
             url: "/categories/information-technology"
       editPost:
         URL: "https://github.com/larry868/website.sunraylabs.net/content"
@@ -137,16 +137,18 @@ languages:
             url: "/fr/formation-gestion-projet"
           - name: Gestion de Projet
             url: "/fr/categories/gestion-de-projet"
-          - name: Technologies de l'Information
-            url: "/fr/categories/technologies-informatiques"
-          - name: Systèmes d'information
-            url: "/fr/categories/systemes-information"
-          - name: Developpement Logiciel
-            url: "/fr/categories/develomment-logiciel"
+          # - name: Technologies de l'Information
+          #   url: "/fr/categories/technologies-informatiques"
+          # - name: Systèmes d'information
+          #   url: "/fr/categories/systemes-information"
+          # - name: Developpement Logiciel
+          #   url: "/fr/categories/develomment-logiciel"
       editPost:
         URL: "https://github.com/larry868/website.sunraylabs.net/content"
         Text: "Suggerer des changements" # edit text
         appendFilePath: true # to append file path to Edit link
+      showPostCover: true
+      showCoverInPost: true
     menu:
       main:
         - identifier: "search"

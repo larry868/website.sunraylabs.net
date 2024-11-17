@@ -9,7 +9,4 @@ editPost:
     disabled: true
 ---
 
-A propos
-
-TODO: fulfill content
-
+TODO: DRAFT

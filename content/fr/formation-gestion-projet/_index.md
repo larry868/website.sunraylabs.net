@@ -15,8 +15,8 @@ Contenu de cette formation à la gestion de projet :
 
 ## :bulb: Concepts et principes de base
 
-- [Un projet c'est quoi ?](principes-de-base/un-projet-c-est-quoi)
-- [Ouvrage et Oeuvre, quelles différences ?](moa-vs-moe)
+- [Anatomie d'un projet](principes-de-base/anatomie-projet)
+- [Mettre le coeur à l'ouvrage](moa-vs-moe)
 - [Cycle de vie des ouvrages](principes-de-base/cycle-de-vie-des-ouvrages)
 - [Objectifs d’un projet](principes-de-base/objectifs-d-un-projet)
 - [Enjeux](principes-de-base/enjeux)
@@ -61,6 +61,6 @@ Contenu de cette formation à la gestion de projet :
 
 ---
 
-> _Cette formation a été dispensée à des centaines de personnes depuis 2011. Son contenu a été actualisé pour tenir comptes des évolutions de l'état de l'art de la gestion de projet._
-
----
+{{% message emoji="🎭" bg="#E3F2FD" %}}
+Cette formation a été dispensée à des centaines de personnes depuis 2011. Son contenu a été actualisé en 2025 pour tenir comptes des évolutions de l'état de l'art de la gestion de projet.
+{{% /message %}}
