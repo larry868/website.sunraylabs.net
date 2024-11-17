@@ -89,8 +89,17 @@ Un projet réussi est celui qui apporte une véritable valeur ajoutée tout en m
 
 ## FAQ
 
-Qu'est ce qu'un projet n'est pas ?
+#### Qu'est ce qu'un projet n'est pas ?
+Un projet n’est pas une activité routinière ou une opération courante. Contrairement aux tâches répétitives, il est temporaire, avec un début et une fin.
 
-A partir de quel moment peut t'on considérer qu'un projet existe ou qu'il a commencé ?
+#### A partir de quel moment peut t'on considérer qu'un projet existe ou qu'il a commencé ?
+Un projet commence lorsqu’un objectif clair a été défini, que les ressources nécessaires sont identifiées, et que l'engagement des parties prenantes est confirmé. 
 
-Un projet est-il innovant ?
+#### Un projet est-il innovant ?
+Un projet peut être innovant, mais ce n’est pas une obligation. Certains projets cherchent simplement à améliorer des processus existants, à résoudre un problème ou à atteindre un objectif défini sans introduire d’innovation particulière.
+
+#### Un projet peut-il être réalisé sans contraintes ?
+Non, un projet est toujours soumis à des contraintes, qu’elles soient liées au temps, aux ressources, au budget ou à la qualité. Ces contraintes définissent le cadre dans lequel le projet doit être exécuté et piloté.
+
+#### Tous les projets ont-ils un résultat tangible ?
+Pas nécessairement. Certains projets aboutissent à des résultats intangibles, comme une stratégie, une amélioration de processus ou une connaissance approfondie, tandis que d'autres livrent des produits ou services concrets.
