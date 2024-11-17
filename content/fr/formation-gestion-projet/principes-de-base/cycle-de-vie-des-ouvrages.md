@@ -7,15 +7,16 @@ tags: []
 featured_image: ""
 description: ""
 draft: false
-weight: 12
+weight: 13
 showPostNavLinks: true
+cover:
+  image: ./images/formation-projet-cycle-vie2.png
+  alt: "cycle de vie d'un ouvrage"
 ---
 
 Le cycle de vie des ouvrages décrit les différentes phases par lesquelles passe un ouvrage, de sa conception à sa mise hors service. Ce cycle permet de comprendre comment un ouvrage crée de la valeur tout au long de sa durée de vie.
 
 <!--more-->
-
-![cycle-vie2](/images/formation-projet-cycle-vie2.png)
 
 La vie d'un ouvrage suit quatre phases : 
 - Phase 0 : phase avant-projet

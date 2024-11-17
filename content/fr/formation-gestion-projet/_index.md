@@ -16,6 +16,7 @@ Contenu de cette formation à la gestion de projet :
 ## :bulb: Concepts et principes de base
 
 - [Un projet c'est quoi ?](principes-de-base/un-projet-c-est-quoi)
+- [Ouvrage et Oeuvre, quelles différences ?](moa-vs-moe)
 - [Cycle de vie des ouvrages](principes-de-base/cycle-de-vie-des-ouvrages)
 - [Objectifs d’un projet](principes-de-base/objectifs-d-un-projet)
 - [Enjeux](principes-de-base/enjeux)

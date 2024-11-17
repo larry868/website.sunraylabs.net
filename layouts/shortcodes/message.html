@@ -1,0 +1,11 @@
+<div style="background-color: {{ .Get "bg" | default "lightgrey" }}; padding: 10px; border-radius: 5px; display: flex; align-items: center; gap: 10px; width: 100%;">
+{{ with .Get "emoji" }}
+<div style="flex-shrink: 0; font-size: 1.5em; text-align: center; width: 2em;">
+{{ . }}
+</div>
+{{ end }}
+<div style="flex-grow: 1;">
+{{ .Inner | markdownify }}
+</div>
+</div>
+  

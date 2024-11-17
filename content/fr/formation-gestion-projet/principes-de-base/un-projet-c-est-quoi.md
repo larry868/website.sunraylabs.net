@@ -9,63 +9,88 @@ description: ""
 draft: false
 showPostNavLinks: true
 weight: 11
+cover:
+  image: ./images/project-examples.png
+  caption: "credit: eiffage"
+  alt: "examples de projets"
 ---
 
-**Un projet c'est quoi ? Un projet est une entreprise temporaire visant à réaliser un ouvrage unique en réponse à un besoin spécifique.** Il se caractérise par un objectif précis, une durée limitée, un coût défini et des risques inhérents. Les projets peuvent être industriels, marketing, BTP, commerciaux, personnels, professionnels, de gestion, d’entreprise, publics ou privés. La réalisation d’un projet implique des actions concrètes (œuvre) pour produire un résultat tangible (ouvrage), tel qu’une maison, un logiciel ou une installation industrielle.
+**Un projet c'est quoi ? Un projet est une entreprise temporaire visant à réaliser un ouvrage unique en réponse à un besoin spécifique.** 
+Nous allons explorer la notion de projet, ses caractéristiques et ses différentes typologies. 
 
 <!--more-->
 
-> « Un projet consiste en la réalisation d’un ouvrage unique, dans un temps limité, en réponse à un besoin. »
+## 📌 Exemples de projets
 
-## Exemples
+Les projets peuvent être de plusieurs natures, publics ou privés, avec un resultat attendu plus ou moins concret... 
 
-| | |
-| - | - |
-| - Projet industriel : |	la construction d'une raffinerie
-| - Projet marketing : | 	une campagne de publicité
-| - Projet BTP : | 		la construction d'une maison
-| - Projet commercial : | 	le lancement d'une nouvelle voiture
-| - Projet personnel : | 	entreprendre une formation
-| - Projet professionnel : | trouver un travail
-| - Projet de gestion : | 	mettre en location gérance un fond de commerce
-| - Projet d’entreprise : | 	mettre en œuvre un système ERP
-| - Projet public : | 	jeux olympiques
-| - Projet privé : | 		lancement d'une fusée sur mars
-| - ....
+|                                    |                                                      |
+| ---------------------------------- | ---------------------------------------------------- |
+| - Projet industriel :              | la construction d'une raffinerie                     |
+| - Projet marketing :               | une campagne de publicité                            |
+| - Projet BTP :                     | la construction d'une maison                         |
+| - Projet commercial :              | le lancement d'une nouvelle voiture                  |
+| - Projet personnel :               | entreprendre une formation                           |
+| - Projet professionnel :           | trouver un travail                                   |
+| - Projet de gestion :              | mettre en location gérance un fond de commerce       |
+| - Projet d'entreprise :            | mettre en œuvre un système ERP                       |
+| - Projet de lancement de produit : | réaliser une campagne pour lancer un nouveau produit |
+| - Projet public :                  | organisation des jeux olympiques                     |
+| - Projet privé :                   | lancement d'une fusée sur mars                       |
+| - ....                             |
 
-## Caractéristiques
+## Anatomie d'un projet
 
-Chaque projet conduit à la réalisation d’un **ouvrage unique** en **réponse à un besoin** en **créant de la valeur** pour celui qui en a exprimé le besoin et a donc **un objectif précis**
+{{% message emoji="🧠" bg="#FFE4E1" %}}
+Un projet consiste en la réalisation d'un **ouvrage unique**, dans un **temps limité**, et en **créant de la valeur**.
+{{% /message %}}
+<br>
+L'ouvrage qui va être réalisé en réponse à un objectif précis.
 
-Le projet se termine le jour où l’ouvrage est terminé. Tout projet a une fin
-Le projet commence le jour où il est décidé d’allouer des moyens et des ressources à la réalisation de l’ouvrage. Tout projet a un coût
+### Tout projet a une fin
 
-Un projet est limité dans le temps, c’est une entreprise temporaire
+**Le projet est par définition temporaire** : il commence lorsque les objectifs sont définis et qu’un plan d’action est établi, et il se termine lorsque l’ouvrage est livré. Cette limitation dans le temps permet de mobiliser les ressources nécessaires et d’assurer un suivi rigoureux des délais. Une fois terminé, le projet peut aboutir à un produit, un service, ou une amélioration organisationnelle, d'une manière générale _un ouvrage_. 
 
-Par définition, de part l’unicité de l’ouvrage, un projet présente des risques
+{{% message emoji="✨" bg="#FDF5E6" %}}
+C’est cette nature temporaire qui distingue un projet d’une activité récurrente ou opérationnelle.
+{{% /message %}}
+<br>
+La fin d’un projet marque également une phase importante : l’évaluation des résultats. Il est essentiel d'analyser si les objectifs initiaux ont été atteints, de documenter les enseignements et d’apporter des ajustements pour les projets futurs.
 
-La mise à disposition de l’ouvrage entraine un changement pour son commanditaire
+### Tout projet a un coût
 
+**Chaque projet mobilise des moyens financiers, humains et matériels**. Le lancement d’un projet implique de planifier un budget et de garantir que les ressources allouées soient suffisantes pour atteindre les objectifs. Ces coûts peuvent inclure des salaires, des achats de matériel, des logiciels, ou encore des frais externes liés à des partenaires ou consultants.
 
-## Le projet est une œuvre, son résultat est un ouvrage
+La gestion du coût est un pilier essentiel de la réussite. Un dépassement budgétaire peut rapidement mettre en péril le projet ou affecter sa rentabilité. C’est pourquoi des outils comme les prévisions budgétaires, les indicateurs de suivi et les marges de sécurité sont souvent utilisés pour maîtriser les dépenses.
 
-### Œuvre 
+### Tout projet est unique
 
-Ensemble d’actions accomplies par quelqu’un en vue de réaliser un certain résultat
+**Chaque projet est unique parcequ'il vise à réaliser un ouvrage ou un résultat spécifique qui n’a jamais été produit exactement de la même manière auparavant.** Même si des projets similaires peuvent exister, les contextes, les objectifs, les parties prenantes, ou encore les contraintes (techniques, financières, temporelles) rendent chaque projet distinct. Cette unicité implique une réflexion approfondie et une planification adaptée pour répondre aux exigences particulières du projet.
 
-- Programmer
-- Construire
-- Câbler
-- Concevoir
-- …
+**L’unicité d’un projet est également ce qui le rend stimulant mais aussi complexe.** Cette caractéristique pousse les équipes à innover, à résoudre des problèmes inédits et à s’adapter à des situations souvent imprévues. Que ce soit dans le développement d’un nouveau produit, la construction d’un bâtiment ou l’intégration d’un système informatique, chaque projet est une opportunité d’apprendre et de créer de la valeur dans un contexte unique.
 
-### Ouvrage
+### Tout projet présente des risques
 
-Object, produit, service résultant d’un travail
+**L’unicité d’un ouvrage signifie que chaque projet comporte une part d’inconnu.** Ces risques peuvent être variés : techniques, financiers, humains, ou liés à des facteurs externes comme des changements réglementaires ou des imprévus environnementaux. Une bonne gestion de projet inclut donc une analyse proactive des risques pour les identifier, les évaluer, et élaborer des plans de contingence.
 
-- Maison
-- Logiciel
-- Offre de prestation
-- Installation industrielle
-- Modification d’une machine
-- …
+Par exemple, un projet de développement logiciel peut rencontrer des défis techniques inattendus, tandis qu’un projet de construction peut être retardé par des conditions climatiques défavorables. Anticiper et communiquer sur ces risques permet de réduire leur impact.
+
+### Tout projet entraine des changements
+
+**L’aboutissement d’un projet transforme toujours son environnement.** Que ce soit un produit innovant, un processus amélioré, ou une nouvelle infrastructure, le résultat modifie les habitudes des parties prenantes ou de l’organisation. Ces changements peuvent être positifs (gain de temps, amélioration de la productivité) mais peuvent également susciter des résistances.
+
+C’est pourquoi la gestion du changement est une dimension importante des projets. Elle passe par une communication claire, une implication des parties prenantes et, dans certains cas, des formations pour accompagner les utilisateurs dans l’adoption du nouvel ouvrage. 
+
+{{% message emoji="✨" bg="#FDF5E6" %}}
+Un projet réussi est celui qui apporte une véritable valeur ajoutée tout en minimisant les frictions liées au changement.
+{{% /message %}}
+
+---
+
+## FAQ
+
+Qu'est ce qu'un projet n'est pas ?
+
+A partir de quel moment peut t'on considérer qu'un projet existe ou qu'il a commencé ?
+
+Un projet est-il innovant ?

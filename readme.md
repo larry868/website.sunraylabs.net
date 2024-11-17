@@ -24,6 +24,28 @@ hugo
 
 :link: [quick reference emojis](https://gohugo.io/quick-reference/emojis/)
 
+## HUGO shortcodes
+
+### message shortcode
+
+
+{{% message emoji="🧠" bg="#FFE4E1" %}}
+This is a custom message for a concept
+{{% /message %}}
+
+{{% message emoji="✨" bg="#FDF5E6" %}}
+This is a custom message for a tip
+{{% /message %}}
+
+{{% message emoji="📌" bg="#F4F4F8" %}}
+This is a custom message for an example
+{{% /message %}}
+
+{{% message emoji="🎭" bg="#E3F2FD" %}}
+This is a custom message for an anecdote
+{{% /message %}}
+
+
 ## License
 
 Copyright (C) 2022-2024 Larry868 - [licence](LICENSE.md).

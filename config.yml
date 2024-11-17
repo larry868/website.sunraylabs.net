@@ -34,15 +34,17 @@ params:
   showPostNavLinks: false
   showBreadCrumbs: true
   showCodeCopyButtons: true
+  showSearch: true
+  showPostCover: true
+  showCoverInPost: true
+  ShowRssButtonInSectionTermList: true
   disableThemeToggle: false
   disableTaxonomyTermList: false
-  ShowRssButtonInSectionTermList: true
-  UseHugoToc: true
   disableScrollToTop: false
+  UseHugoToc: true
   comments: false
   hidemeta: false
   hideSummary: false
-  showSearch: true
   assets:
     favicon: "favicon.ico"
   author:
@@ -56,6 +58,9 @@ params:
     threshold: 0.4
     minMatchCharLength: 4
     # limit: 10 # refer: https://www.fusejs.io/api/methods.html#search
+  cover:
+    responsiveImages: true
+    linkFullImages: true
 
 taxonomies:
   category: "categories"

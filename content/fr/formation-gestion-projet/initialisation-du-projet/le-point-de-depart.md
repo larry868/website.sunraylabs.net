@@ -11,3 +11,4 @@ weight: 21
 showPostNavLinks: true
 ---
 
+Le projet commence le jour où il est décidé d'allouer des moyens et des ressources à la réalisation de l'ouvrage.
